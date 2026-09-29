@@ -33,10 +33,10 @@
 
 ## Corpora
 
-See [corpora/](corpora/) for the current corpus set.
+See [corpora/](corpora/) for the current corpus set.\n\n- [文学・生活スケッチ v0.2-A](corpora/literary-everyday-sketches-v0.2-a.md)\n- [文学・生活スケッチ v0.2-B](corpora/literary-everyday-sketches-v0.2-b.md)\n- [文学・生活スケッチ v0.2-C](corpora/literary-everyday-sketches-v0.2-c.md)\n- [文学・生活スケッチ v0.2-D](corpora/literary-everyday-sketches-v0.2-d.md)
 
 ## Learning materials
 
 - [学習文法書 v0.1](learning/grammar-book-v0.1.md)
 - [基本単語帳 v0.1](learning/core-vocabulary-book-v0.1.md)
-- [日常例文帳 v0.1](learning/everyday-phrasebook-v0.1.md)
+- [日常例文帳 v0.1](learning/everyday-phrasebook-v0.1.md)\n- [日常会話ノート v0.1](learning/everyday-conversation-notes-v0.1.md)
