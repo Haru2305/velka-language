@@ -34,3 +34,9 @@
 ## Corpora
 
 See [corpora/](corpora/) for the current corpus set.
+
+## Learning materials
+
+- [学習文法書 v0.1](learning/grammar-book-v0.1.md)
+- [基本単語帳 v0.1](learning/core-vocabulary-book-v0.1.md)
+- [日常例文帳 v0.1](learning/everyday-phrasebook-v0.1.md)
