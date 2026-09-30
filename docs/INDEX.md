@@ -33,10 +33,26 @@
 
 ## Corpora
 
-See [corpora/](corpora/) for the current corpus set.\n\n- [文学・生活スケッチ v0.2-A](corpora/literary-everyday-sketches-v0.2-a.md)\n- [文学・生活スケッチ v0.2-B](corpora/literary-everyday-sketches-v0.2-b.md)\n- [文学・生活スケッチ v0.2-C](corpora/literary-everyday-sketches-v0.2-c.md)\n- [文学・生活スケッチ v0.2-D](corpora/literary-everyday-sketches-v0.2-d.md)
+See [corpora/](corpora/) for the current corpus set.
+
+- [日常会話 v0.3-A](corpora/everyday-conversation-v0.3-a.md)
+- [日常会話 v0.3-B](corpora/everyday-conversation-v0.3-b.md)
+- [日常会話 v0.3-C](corpora/everyday-conversation-v0.3-c.md)
+- [文学コーパス v0.3-A](corpora/literary-corpus-v0.3-a.md)
+- [文学コーパス v0.3-B](corpora/literary-corpus-v0.3-b.md)
+- [文学コーパス v0.3-C](corpora/literary-corpus-v0.3-c.md)
+- [文学コーパス v0.3-D](corpora/literary-corpus-v0.3-d.md)
+- [文学コーパス v0.3-E](corpora/literary-corpus-v0.3-e.md)
+- [文学コーパス v0.3-F](corpora/literary-corpus-v0.3-f.md)
+- [文学コーパス v0.3-G](corpora/literary-corpus-v0.3-g.md)
+- [文学・生活スケッチ v0.2-A](corpora/literary-everyday-sketches-v0.2-a.md)
+- [文学・生活スケッチ v0.2-B](corpora/literary-everyday-sketches-v0.2-b.md)
+- [文学・生活スケッチ v0.2-C](corpora/literary-everyday-sketches-v0.2-c.md)
+- [文学・生活スケッチ v0.2-D](corpora/literary-everyday-sketches-v0.2-d.md)
 
 ## Learning materials
 
 - [学習文法書 v0.1](learning/grammar-book-v0.1.md)
 - [基本単語帳 v0.1](learning/core-vocabulary-book-v0.1.md)
-- [日常例文帳 v0.1](learning/everyday-phrasebook-v0.1.md)\n- [日常会話ノート v0.1](learning/everyday-conversation-notes-v0.1.md)
+- [日常例文帳 v0.1](learning/everyday-phrasebook-v0.1.md)
+- [日常会話ノート v0.1](learning/everyday-conversation-notes-v0.1.md)
