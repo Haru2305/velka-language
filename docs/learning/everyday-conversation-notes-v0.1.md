@@ -5,7 +5,7 @@
 ## 1. 短答
 Ren. — うん／了解／いいよ
 Tar. — 分かった
-Ren. — まあいい／それでいい
+Reni. — まあいい／それでいい
 Ke? — 何？
 Harke. — まだ
 Pit. — 少し
@@ -38,7 +38,7 @@ Go. — いらない
 
 ## 5. 家族の軽いやり取り
 Ki dumsol ke rin? — 今夜何食べる？
-Ke=be reni. — 何でもいい
+Ke=be reni. — どれでもいい／何でもいい
 Ki zel go. — それ答えになってない
 Ta bi pirmak. — 二人で作って
 Go ren. — やだ
