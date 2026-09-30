@@ -3,9 +3,9 @@
 文学・生活スケッチ v0.2-A〜D から、学習価値の高い会話運用を抽出する。
 
 ## 1. 短答
-Na. — うん／そう
+Ren. — うん／了解／いいよ
 Tar. — 分かった
-Renren. — まあいい／それでいい
+Ren. — まあいい／それでいい
 Ke? — 何？
 Harke. — まだ
 Pit. — 少し
@@ -16,9 +16,9 @@ Go wen. — 分からない／知らない
 ## 2. 返信・待ち合わせ
 Jisol ora yel reni da? — 明日3時どう？
 Reni. Keter? — いいよ。どこ？
-Ma senir. — 遅れる
-Balka. Ma senir. — ごめん、遅れる
-Kur go. — 走らないで
+Ma harir. — 遅れる
+Balka. Ma harir. — ごめん、遅れる
+Go kuri. — 急がなくていい
 Ma ji-ke. — 着いたよ
 
 ## 3. 会話を中断する
@@ -49,7 +49,7 @@ pit 「小さい・少ない」と mag 「大きい・多い・強い」は、�
 
 Ma pit pirmi=m. — 少し怒っている
 Ran mag ji-ra=n. — 雨が激しく降っている
-Rukka mag ne-ne=na. — 大きく笑い始めた
+Belka mag ne-ne=na. — 大きく笑い始めた
 
 ## 7. 省略
 既知の主語は省略しやすい。直前の話題から目的語を回復できる場合も省略できる。
